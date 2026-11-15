@@ -187,10 +187,10 @@ Human-evaluation results comparing synthetic speaking style prompts from Vox-Pro
 
 #### If you like our work or use the models in your work, kindly cite the following. We appreciate your recognition!
 ```
-@article{feng2025vox,
-  title={Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits},
+@article{feng2026vox,
+  title={Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker Traits and Speech Properties},
   author={Feng, Tiantian and Lee, Jihwan and Xu, Anfeng and Lee, Yoonjeong and Lertpetchpun, Thanathai and Shi, Xuan and Wang, Helin and Thebaud, Thomas and Moro-Velazquez, Laureano and Byrd, Dani and others},
-  journal={arXiv preprint arXiv:2505.14648},
-  year={2025}
+  journal={Journal of Data-centric Machine Learning Research},
+  year={2026}
 }
 ```
